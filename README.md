@@ -208,6 +208,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✍️ About Developer
 
--   Sahil Atahar (Aspiring Full Stack Developer)  
-     [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilatahar)
-    [![LinkedIn-social](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilatahar)
+-    Biswadeep Giri (Aspiring Full Stack Developer)  
+     [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/biswadeep-giri-498415224/)
+    [![LinkedIn-social](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswadeep-giri-498415224/)
